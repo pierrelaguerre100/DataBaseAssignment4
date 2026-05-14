@@ -1,1 +1,1 @@
-I've tried exporting every query, but only the table creation queries show up in the SQL file. I made sure to take a picture of all additional queries needed for this project in my Assignment4.pdf file.
+
